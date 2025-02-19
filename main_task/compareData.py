@@ -71,7 +71,7 @@ def compare_barcodes(reference_barcodes, comparison_barcodes):
             mismatches.append(ref_barcode)
     return mismatches
 
-# main sct
+# main script
 file_paths = ['test_task.pdf', 'compare1.pdf', 'compare2.pdf']
 
 # Шаг 1: Извлечение эталонных данных
